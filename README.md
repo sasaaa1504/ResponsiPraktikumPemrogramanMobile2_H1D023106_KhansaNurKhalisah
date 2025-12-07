@@ -10,7 +10,7 @@ Aplikasi pencatatan komputer menggunakan flutterS
 ---
 ## Dokumentasi
 
-![Demo Aplikasi](https://github.com/sasaaa1504/ResponsiPraktikumPemrogramanMobile2_H1D023106_KhansaNurKhalisah/blob/main/demo.gif)
+![Demo Aplikasi](https://github.com/sasaaa1504/ResponsiPraktikumPemrogramanMobile2_H1D023106_KhansaNurKhalisah/blob/main/docs/demo.gif)
 
 ### Struktur Aplikasi
 
